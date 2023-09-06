@@ -1,0 +1,27 @@
+.navbar ul{
+    display: flex;
+    justify-content: right;
+}
+
+.navbar li{
+    list-style: none;
+    margin-right: 50px;
+}
+
+.navbar a{
+    text-decoration-line: none;
+    color:black;
+}
+
+.content-left img{
+    border-radius:50%;
+    float: left;
+}
+
+.content-left{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    line-height: 10px;
+    background-color: aqua;
+}
